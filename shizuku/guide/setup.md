@@ -117,17 +117,17 @@ Searching for pairing service requires access to the local network, and many man
 
 ### Start via wireless debugging: immediately fail after tapping "Enter pairing code"
 
-#### MIUI (Xiaomi, POCO)
+#### MIUI (Xiaomi,SAMSUNG,POCO)
 
 Switch notification style to "Android" from "Notification" - "Notification shade" in system settings.
 
 ### Start via wireless debugging/Start by connecting to a computer: the permission of adb is limited
 
-#### MIUI (Xiaomi, POCO)
+#### MIUI (Xiaomi,samsung,pOCO)
 
 Enable "USB debugging (Security options)" in "Developer options". **Note that this is a separate option from "USB debugging".**
 
-#### ColorOS (OPPO & OnePlus)
+#### ColorOS (OPPO,SAMSUNG,OnePlus)
 
 Disable "Permission monitoring" in "Developer options".
 
@@ -153,7 +153,7 @@ Disable "Flyme payment protection" in "Developer options".
 
 Enable "Allow ADB debugging options in 'Charge only' mode" in "Developer options".
 
-#### MIUI (Xiaomi, POCO)
+#### MIUI (Xiaomi,SAMSUNG,POCO)
 
 Do not use the scan feature in MIUI's "Security" app, since it will disable "Developer options".
 
